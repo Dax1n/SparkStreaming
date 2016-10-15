@@ -1,0 +1,29 @@
+[0m[[0minfo[0m] [0mPackaging /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/kafka_streamingpractice_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	CustomReceiver$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/CustomReceiver$.class[0m
+[0m[[0mdebug[0m] [0m	SparkStreaming$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/SparkStreaming$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	CustomReceiver$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/CustomReceiver$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	CustomReceiver$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/CustomReceiver$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	sparkkafkastreaming.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/sparkkafkastreaming.class[0m
+[0m[[0mdebug[0m] [0m	CustomReceiver$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/CustomReceiver$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	SparkStreaming.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/SparkStreaming.class[0m
+[0m[[0mdebug[0m] [0m	CustomReceiver$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/CustomReceiver$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	CustomReceiver.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/CustomReceiver.class[0m
+[0m[[0mdebug[0m] [0m	SparkStreaming$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/SparkStreaming$.class[0m
+[0m[[0mdebug[0m] [0m	SparkStreaming$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/SparkStreaming$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	sparkkafkastreaming$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/sparkkafkastreaming$.class[0m
+[0m[[0mdebug[0m] [0m	SparkStreaming$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/subhra/Spark_Programs/IntellijProjects/SparkStreamingKafka/kafka_streamingpractice/target/scala-2.10/classes/SparkStreaming$$anonfun$2.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
